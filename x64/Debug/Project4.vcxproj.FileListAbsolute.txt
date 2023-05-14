@@ -1,0 +1,10 @@
+C:\Users\philo\Desktop\psets\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Users\philo\Desktop\psets\Project4\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\philo\Desktop\psets\Project4\x64\Debug\Project4.exe
+C:\Users\philo\Desktop\psets\Project4\x64\Debug\Project4.MyForm.resources
+C:\Users\philo\Desktop\psets\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\philo\Desktop\psets\project5\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Users\philo\Desktop\psets\project5\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\philo\Desktop\psets\project5\x64\Debug\Project4.MyForm.resources
+C:\Users\philo\Desktop\psets\project5\x64\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\philo\Desktop\psets\project5\x64\Debug\Project4.exe
